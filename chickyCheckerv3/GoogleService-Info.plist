@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>471460875839-o84p3q4clgmnicmpdbbtkola19dsa6om.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.471460875839-o84p3q4clgmnicmpdbbtkola19dsa6om</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_lVNPBYIE4g1jVNpQ2VG_ZbBpWN9ZuVo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>471460875839</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mactest.chickyCheckerv3</string>
+	<key>PROJECT_ID</key>
+	<string>chickycheckerv2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chickycheckerv2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:471460875839:ios:0cb6f51a905d21f8</string>
+	<key>DATABASE_URL</key>
+	<string>https://chickycheckerv2-16966.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-3998189951369397~7369520377</string>
+</dict>
+</plist>
